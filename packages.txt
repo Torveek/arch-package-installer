@@ -1,0 +1,9 @@
+# Packages for pacman
+_pacman
+package1
+package2
+
+# Packages for yay
+_yay
+yay-package1
+yay-package2
